@@ -1,0 +1,15 @@
+.el-odd {
+    background-color: rgb(255, 184, 194);
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+.fsize {
+    font-size: 24px;
+}
+#el-two {
+    color: #0000ff;
+    font-size: 36px;
+}
+#el-four {
+    background-color: hsl(120, 73%, 75%);
+    font-weight: bold;
+}
